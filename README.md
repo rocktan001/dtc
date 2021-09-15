@@ -1,8 +1,8 @@
 ### android dtc 
 
-### git://git.kernel.org/pub/scm/utils/dtc/dtc.gi
 
 ```
+	git://git.kernel.org/pub/scm/utils/dtc/dtc.git
 	1:安装默认工具 flex bison
 	2:指定交叉编译器 ANDROID_NDK_HOME=/media/disk2/tools/android-ndk-r10e
 	3：source generate_standalone_toolchain.sh
